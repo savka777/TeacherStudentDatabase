@@ -1,0 +1,42 @@
+Id : 1000	Name : Zeroug	Phone : 5147889014	Email : zeroug@hotmail.com	Nb Evaluations: 3
+++++++++++List of taught courses++++++++
+CourseId : 100	Title : SQL Database	Domain : Computer Science	TeacherId : 1000
+CourseId : 200	Title : Java	Domain : Computer Science	TeacherId : 1000
+CourseId : 500	Title : Project management	Domain : Management	TeacherId : 1000
+Total number of taught courses: 3
+++++++++++++++++++++++++++++++++++++++++
+Avg evaluation is 7.33
+Domain :1-Computer Science
+Domain :4-Management
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Id : 1020	Name : Fode	Phone : 5146721234	Email : fode@hotmail.ca	Nb Evaluations: 3
+++++++++++List of taught courses++++++++
+CourseId : 300	Title : UML	Domain : Computer Science	TeacherId : 1020
+Total number of taught courses: 1
+++++++++++++++++++++++++++++++++++++++++
+Avg evaluation is 6.33
+Domain :1-Computer Science
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Id : 2000	Name : Marc	Phone : 5147881213	Email : marc@yahoo.ca	Nb Evaluations: 2
+----------List of taken courses-----------
+CourseId : 100	Title : SQL Database	Domain : Computer Science	TeacherId : 1000
+CourseId : 600	Title : Building doily	Domain : Fashion	TeacherId : 1040
+Total number of taken courses: 2
+------------------------------------------
+Avg evaluation is 4.0
+Domain :1-Computer Science
+Domain :0-Fashion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Id : 2001	Name : Maria	Phone : 5146781415	Email : maria@hotmail.ca	Nb Evaluations: 2
+----------List of taken courses-----------
+CourseId : 200	Title : Java	Domain : Computer Science	TeacherId : 1000
+CourseId : 300	Title : UML	Domain : Computer Science	TeacherId : 1020
+Total number of taken courses: 2
+------------------------------------------
+Avg evaluation is 6.5
+Domain :1-Computer Science
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
